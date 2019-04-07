@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/tool_bar_menu_about"
+        android:title="@string/about" />
+
+    <item android:id="@+id/tool_bar_menu_terms_and_agreement"
+        android:title="@string/terms_and_agreement" />
+
+    <item android:id="@+id/tool_bar_menu_privacy_policy"
+        android:title="@string/privacy_policy" />
+
+    <item android:id="@+id/tool_bar_menu_acknowledgements"
+        android:title="@string/acknowledgements" />
+
+</menu>

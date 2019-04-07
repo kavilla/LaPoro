@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1013397787360",
+    "firebase_url": "https://cryptosmart-d2886.firebaseio.com",
+    "project_id": "cryptosmart-d2886",
+    "storage_bucket": "cryptosmart-d2886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013397787360:android:f72849ec5d9cbbc7",
+        "android_client_info": {
+          "package_name": "com.kawikaavilla.cryptosmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013397787360-bnvu7ngq9u75gih27nrddahbd4sts7m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kawikaavilla.cryptosmart",
+            "certificate_hash": "0df6a52798cbedd2c9506f2a0431a1593f6affc2"
+          }
+        },
+        {
+          "client_id": "1013397787360-2ca6tcfp8ln8jiqiub8l4pf1h356j7ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBff3KawQ4Xtdya2YNy_GfgRtAzf9aqtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013397787360-2ca6tcfp8ln8jiqiub8l4pf1h356j7ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
